@@ -1,0 +1,24 @@
+Altium Designer Pick and Place Locations
+C:\Applications\hardware\pca64142\trunk\production_files\400532_pick_and_place.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       02-07-21
+Time:       16:35
+Revision:   20974
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"JP4","Shunt 2.54mm","TopLayer","Shunt_2.54mm_Horizontal","-67.5823","-117.1176","270","Shunt Jumper 2.54mm Black, open top"
+"JP3","Shunt 2.54mm","TopLayer","Shunt_2.54mm_Horizontal","-67.5823","-117.1176","270","Shunt Jumper 2.54mm Black, open top"
+"JP2","Shunt 2.54mm","TopLayer","Shunt_2.54mm_Horizontal","-67.5823","-117.1176","270","Shunt Jumper 2.54mm Black, open top"
+"JP1","Shunt 2.54mm","TopLayer","Shunt_2.54mm_Horizontal","-67.5823","-117.1176","270","Shunt Jumper 2.54mm Black, open top"
+"P6","Pin List 1x10","TopLayer","LIST_1x10-NC","3.0744","-28.6826","90","Pin List 1x10, 2.54mm (100mil)"
+"P5","Pin Header 2x10, 1.27mm, SWD","TopLayer","HDR_2x10-SMD-1.27mm-K-SWD","-3.2090","-44.8590","0","Pin Header 2x10, 1.27mm (50mil), SMD, Keying Shroud, Removed Pin 7"
+"P2","Pin List 1x2, Angled","TopLayer","LIST_ANG_1x2-SMD-2.54MM","-2.6200","-24.9026","270","Pin List 1x2, 2.54mm (100mil), Right Angled, SMD"
+"P4","Pin List 1x2, Angled","TopLayer","LIST_ANG_1x2-SMD-2.54MM","-2.6200","-37.9026","270","Pin List 1x2, 2.54mm (100mil), Right Angled, SMD"
+"P1","Pin List 1x2, Angled","TopLayer","LIST_ANG_1x2-SMD-2.54MM","-2.6200","-18.4026","270","Pin List 1x2, 2.54mm (100mil), Right Angled, SMD"
+"P3","Pin List 1x2, Angled","TopLayer","LIST_ANG_1x2-SMD-2.54MM","-2.6200","-31.4026","270","Pin List 1x2, 2.54mm (100mil), Right Angled, SMD"
+"J2","Card Edge, 0.8mm","BottomLayer","10056847-101LF_Mating_Board","0.0000","-2.2750","180","0.8mm pitch, dual edge, card edge connector"

@@ -1,0 +1,18 @@
+.2450AT18B100E :1 ;Antennas 2.45GHz ANTENNA
+ANTC3216X140N
+*STM ANT
+*NGS
+*PLB 1="FEED" 2="NC"
+*MXP 2
+*DFN 2450AT18B100E
+~!Manufacturer_Name (JOHANSON TECHNOLOGY)
+~!Manufacturer_Part_Number (2450AT18B100E)
+~!Mouser Part Number (609-2450AT18B100E)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Johanson-Technology/2450AT18B100E?qs=yCnrNFeXz%252Bh5MFsFIXGZGA%3D%3D)
+~!Arrow Part Number (2450AT18B100E)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/2450at18b100e/johanson-dielectrics?utm_currency=USD&region=europe)
+~!Link Datasheet (https://www.johansontechnology.com/datasheets/2450AT18B100/2450AT18B100.pdf)
+~!Height (1.4mm)
+~!3D_Model (2450AT18B100E)
+"2450AT18B100E"
+1.1!I 2.1!U 

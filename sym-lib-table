@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "wearable_pcb-altium-import")(type "KiCad")(uri "${KIPRJMOD}/wearable_pcb-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "wearable_symbols")(type "KiCad")(uri "${KIPRJMOD}/library/wearable_symbols.kicad_sym")(options "")(descr ""))
+)

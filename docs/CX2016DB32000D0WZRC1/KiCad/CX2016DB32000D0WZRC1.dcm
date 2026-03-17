@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CX2016DB32000D0WZRC1
+D 32 MHz +/-25ppm Crystal 8pF 60 Ohms 4-SMD, No Lead
+K
+F https://www.digikey.com/en/products/detail/kyocera-avx/CX2016DB32000D0WZRC1/5436842
+$ENDCMP
+#
+#End Doc Library

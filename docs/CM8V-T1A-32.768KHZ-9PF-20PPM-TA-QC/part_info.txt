@@ -1,0 +1,9 @@
+Manufacturer=Micro Crystal AG
+PartNumber=CM8V-T1A-32.768KHZ-9PF-20PPM-TA-QC
+PartCategory=Crystal or Oscillator
+PackageCategory=Other
+PinCount=2
+Version=5.3
+Released=2019-09-19 15:26:13
+Downloaded=2026-03-17 17:03:14
+3D=Y

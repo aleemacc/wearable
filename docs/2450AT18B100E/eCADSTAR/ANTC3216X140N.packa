@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "2450AT18B100E"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-06-22-02:40:16)
+    (mountForm default
+        (footprintRef "ANTC3216X140N")
+        (spec "System")
+    )
+)

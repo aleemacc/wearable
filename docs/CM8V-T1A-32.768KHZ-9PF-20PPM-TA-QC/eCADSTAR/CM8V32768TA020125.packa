@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CM8V-T1A-32_768KHZ-9PF-20PPM-T"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-06-06-11:10:45)
+    (mountForm default
+        (footprintRef "CM8V32768TA020125")
+        (spec "System")
+    )
+)

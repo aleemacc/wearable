@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CM8V_T1A_32.768KHZ_9PF_20PPM_TA_QC'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Micro Crystal AG", "CM8V-T1A-32.768KHZ-9PF-20PPM-TA-QC" (!) = "", "CM8V32768TA020125", "Other", "428-201410-MC01", "https://www.mouser.co.uk/ProductDetail/Micro-Crystal/CM8V-T1A-32.768kHz-9pF-20PPM-TA-QC?qs=7bTaA%2FLYtSYzb4vUPpiGww%3D%3D", "CRYSTAL 32.768KHZ SMD", "https://www.microcrystal.com/fileadmin/Media/Products/32kHz/Datasheet/CM8V-T1A.pdf", "0.6 mm"
+END_PART
+
+END.

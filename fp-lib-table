@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "wearable_footprints")(type "KiCad")(uri "${KIPRJMOD}/library/wearable_footprints.pretty")(options "")(descr ""))
+)

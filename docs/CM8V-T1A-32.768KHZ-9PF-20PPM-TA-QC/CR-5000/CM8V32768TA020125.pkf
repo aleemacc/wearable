@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "CM8V32768TA020125"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "CM8V32768TA020125")
+        (spec "default")
+    )
+)

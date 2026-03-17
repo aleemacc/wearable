@@ -2,9 +2,51 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid fa6e4066-848e-441b-8f94-2a6516ff1e5e)
-	(paper "A4")
+	(uuid "f8be0e19-e585-4ec4-900a-ea71de23765b")
+	(paper "A3")
 	(lib_symbols)
+	(sheet
+		(at 40.64 34.29)
+		(size 48.26 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "85962ba0-f70b-4c69-bd38-ef94e3edeccf")
+		(property "Sheetname" "micro"
+			(at 40.64 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "micro.kicad_sch"
+			(at 40.64 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "wearable_pcb"
+				(path "/f8be0e19-e585-4ec4-900a-ea71de23765b"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

@@ -1,0 +1,9 @@
+Manufacturer=JOHANSON TECHNOLOGY
+PartNumber=2450AT18B100E
+PartCategory=Antenna
+PackageCategory=Antennas Chip
+PinCount=2
+Version=2.1
+Released=2017-03-30 16:47:39
+Downloaded=2026-03-17 17:08:31
+3D=Y
