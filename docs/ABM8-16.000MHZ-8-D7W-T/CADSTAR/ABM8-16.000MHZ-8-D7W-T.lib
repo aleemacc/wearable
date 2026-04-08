@@ -1,0 +1,18 @@
+.ABM8-16.000MHZ-8-D7W-T :1 ;Crystal 16MHz +/-15ppm (Tol) +/-25ppm (Stability) 8pF FUND 70Ohm 4-Pin Ultra Mini-CSMD T/R
+ABM810000MHZ12D2W
+*STM Y
+*NGS
+*PLB 1="X1" 2="GND_1" 3="X2" 4="GND_2"
+*MXP 4
+*DFN ABM8-16.000MHZ-8-D7W-T
+~!Manufacturer_Name (ABRACON)
+~!Manufacturer_Part_Number (ABM8-16.000MHZ-8-D7W-T)
+~!Mouser Part Number (815-ABM816MHZ8D7WT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ABRACON/ABM8-16000MHZ-8-D7W-T?qs=wnTfsH77Xs4Af1zqTcUoQQ%3D%3D)
+~!Arrow Part Number (ABM8-16.000MHZ-8-D7W-T)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/abm8-16.000mhz-8-d7w-t/abracon)
+~!Link Datasheet (https://abracon.com/Resonators/abm8.pdf)
+~!Height (0.8mm)
+~!3D_Model (ABM8-16.000MHZ-8-D7W-T)
+ABM8-16.000MHZ-8-D7W-T
+1.1!U 2.1!U 3.1!U 4.1!U 

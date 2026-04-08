@@ -47,6 +47,56 @@
 			)
 		)
 	)
+	(sheet
+		(at 100.33 34.29)
+		(size 50.8 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e11cf7c7-8142-4e92-b6d4-732a2e2a5b68")
+		(property "Sheetname" "AD5940"
+			(at 100.33 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ad5940.kicad_sch"
+			(at 100.33 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 100.33 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "wearable_pcb"
+				(path "/f8be0e19-e585-4ec4-900a-ea71de23765b"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

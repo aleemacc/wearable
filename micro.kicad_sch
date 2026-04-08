@@ -35597,7 +35597,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "wearable_footprints:QFN40P600X600X90-49N-D"
 			(at 81.28 123.19 0)
 			(effects
 				(font

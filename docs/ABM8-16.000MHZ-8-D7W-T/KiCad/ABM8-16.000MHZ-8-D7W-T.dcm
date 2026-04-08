@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ABM8-16.000MHZ-8-D7W-T
+D Crystal 16MHz +/-15ppm (Tol) +/-25ppm (Stability) 8pF FUND 70Ohm 4-Pin Ultra Mini-CSMD T/R
+K
+F https://abracon.com/Resonators/abm8.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD5941BCPZ
+D High Precision, Impedance & Electrochemical Front End
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD5940-5941.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD5940BCBZ-RL
+D 1 Channel AFE 16 Bit 56-WLCSP (3.56x4.16)
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD5940-5941.pdf
+$ENDCMP
+#
+#End Doc Library

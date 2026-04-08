@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ABM8_16.000MHZ_8_D7W_T'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ABRACON", "ABM8-16.000MHZ-8-D7W-T" (!) = "", "ABM810000MHZ12D2W", "Other", "815-ABM816MHZ8D7WT", "https://www.mouser.co.uk/ProductDetail/ABRACON/ABM8-16000MHZ-8-D7W-T?qs=wnTfsH77Xs4Af1zqTcUoQQ%3D%3D", "ABM8-16.000MHZ-8-D7W-T", "https://www.arrow.com/en/products/abm8-16.000mhz-8-d7w-t/abracon", "Crystal 16MHz +/-15ppm (Tol) +/-25ppm (Stability) 8pF FUND 70Ohm 4-Pin Ultra Mini-CSMD T/R", "https://abracon.com/Resonators/abm8.pdf", "0.8 mm"
+END_PART
+
+END.

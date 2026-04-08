@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "AD5940BCBZ-RL"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-06-13-05:46:11)
+    (mountForm default
+        (footprintRef "BGA56C40P8X7_416X356X55")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP nRF52832-QFAA-R
+D RF System on a Chip - SoC BLE ANT/ANT+ 2.4GHz SOC
+K
+F http://infocenter.nordicsemi.com/pdf/nRF52832_PS_v1.3.pdf
+$ENDCMP
+#
+#End Doc Library

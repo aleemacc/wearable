@@ -1,0 +1,19 @@
+.AD5941BCPZ :1 ;High Precision, Impedance & Electrochemical Front End
+QFN50P700X700X80-49N-D
+*STM IC
+*NGS
+*PLB 1="RC0_2" 2="RC0_1" 3="RC0_0" 4="VREF_2V5" 5="AVDD_REG" 6="DVDD" 7="DNC_1" 8="VBIAS0" 9="VZERO0" 10="DNC_2" 11="XTALI" 12="XTALO" 13="DGND_1" 14="DVDD_REG_1V8" 15="'CS'" 16="SCLK" 17="MOSI" 18="MISO" 19="GPIO0" 20="GPIO1" 21="GPIO2" 22="'RESET'" 23="DGND_2" 24="DNC_3" 25="DGND_3" 26="IOVDD" 27="AFE3" 28="AFE4" 29="AGND_1" 30="AVDD_1" 31="VBIAS_CAP" 32="RCAL0" 33="RCAL1" 34="AFE1" 35="AFE2" 36="AIN3/BUF_VREF1V8" 37="AIN2" 38="AIN1" 39="AIN0" 40="AIN4/LPF0" &
+41="AVDD_2" 42="AGND_2" 43="VREF_1V82" 44="AGND_REF" 45="SE0" 46="DE0" 47="CE0" 48="RE0" 49="EP"
+*MXP 49
+*DFN AD5941BCPZ
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (AD5941BCPZ)
+~!Mouser Part Number (584-AD5941BCPZ)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD5941BCPZ?qs=B6kkDfuK7%2FDIxZEWBBp0eA%3D%3D)
+~!Arrow Part Number (AD5941BCPZ)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ad5941bcpz/analog-devices.html?utm_currency=USD&region=europe)
+~!Link Datasheet (https://www.analog.com/media/en/technical-documentation/data-sheets/AD5940-5941.pdf)
+~!Height (0.8mm)
+~!3D_Model (AD5941BCPZ)
+AD5941BCPZ
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 36.1!U 35.1!U 34.1!U 33.1!U 32.1!U 31.1!U 30.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 49.1!U 48.1!U 47.1!U 46.1!U 45.1!U 44.1!U 43.1!U 42.1!U 41.1!U 40.1!U 39.1!U 38.1!U 37.1!U 

@@ -1,4 +1,4 @@
-26391197115553577
+26496118915619366
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -104510,12 +104510,26 @@ Varistor VF
 2
 2
 wearable_footprints
+ABM810000MHZ12D2W
+ABM8
+Crystal or Oscillator
+0
+4
+4
+wearable_footprints
 ANTC3216X140N
 2450AT18B100E-1
 Antenna
 0
 2
 2
+wearable_footprints
+BGA56C40P8X7_416X356X55
+CB-56-3
+Integrated Circuit
+0
+56
+56
 wearable_footprints
 CM8V32768TA020125
 CM8V
@@ -104530,3 +104544,17 @@ Crystal or Oscillator
 0
 4
 4
+wearable_footprints
+QFN40P600X600X90-49N-D
+QFN48 (6 X 6)
+Integrated Circuit
+0
+0
+0
+wearable_footprints
+QFN50P700X700X80-49N-D
+LFCSP:LEADFRM CHIP SCALE_2024-1
+Integrated Circuit
+0
+49
+49

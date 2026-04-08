@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "AD5941BCPZ"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-06-13-05:47:33)
+    (mountForm default
+        (footprintRef "QFN50P700X700X80-49N-D")
+        (spec "System")
+    )
+)

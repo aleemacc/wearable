@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'nRF52832_QFAA_R'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nordic Semiconductor", "nRF52832-QFAA-R" (!) = "", "QFN40P600X600X90-49N-D", "Quad Flat No-Lead", "949-NRF52832-QFAA-R", "https://www.mouser.co.uk/ProductDetail/Nordic-Semiconductor/nRF52832-QFAA-R?qs=X3Oj%252BjuKOOLm0FWmA%252BRsrg%3D%3D", "NRF52832-QFAA-R", "https://www.arrow.com/en/products/nrf52832-qfaa-r/nordic-semiconductor?utm_currency=USD&region=nac", "RF System on a Chip - SoC BLE ANT/ANT+ 2.4GHz SOC", "http://infocenter.nordicsemi.com/pdf/nRF52832_PS_v1.3.pdf", "0.9 mm"
+END_PART
+
+END.
